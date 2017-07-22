@@ -1,4 +1,0 @@
-﻿# MATLABを用いた画像処理
-  
-  画像ソース:資金不足に悩む研究者のイラスト|かわいいフリー素材集 いらすとや <http://www.irasutoya.com/2017/06/blog-post_36.html>
-
