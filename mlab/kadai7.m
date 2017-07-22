@@ -4,7 +4,7 @@
 % 課題作成にあたっては「Lenna」以外の画像を用いよ． 
 % 例
 
-ORG = imread('kenkyu_man_shikinbusoku.png'); % 画像の読み込み
+ORG = imread('../img/origin.png'); % 画像の読み込み
 ORG = rgb2gray(ORG); % 白黒濃淡画像に変換
 imagesc(ORG); colormap(gray); colorbar; % 画像の表示
 pause;
